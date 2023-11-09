@@ -25,22 +25,7 @@
     "cordova:plugin"
   ],
   "engines": {
-    "cordovaDependencies": {
-      "<7.0.0": {
-        "cordova-android": "<6.3.0"
-      },
-      "7.0.0": {
-        "cordova-android": ">=6.3.0"
-      },
-      "7.1.0": {
-        "cordova-android": ">=6.3.0",
-        "cordova": ">=7.1.0"
-      },
-      "8.0.0": {
-        "cordova-android": ">=6.3.0",
-        "cordova": ">=7.1.0"
-      }
-    }
+    "cordova-android": ">=10.0.0"
   },
   "author": "Adobe PhoneGap Team",
   "license": "MIT",
